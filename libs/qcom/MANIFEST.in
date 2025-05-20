@@ -1,0 +1,4 @@
+include qcom/assets/css/*.css
+include qcom/assets/img/*.svg
+include qcom/assets/js/*.js
+include qcom/assets/md/*.md
